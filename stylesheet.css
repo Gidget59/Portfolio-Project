@@ -39,6 +39,11 @@ h2 {
         font-size: 15px;
         text-align: center;
     }
+.Profile-Picture {
+        border-radius: 50%;
+        border: 2px solid black;
+        object-fit: cover;
+    }
 /*Responsive Sizes*/
 
 @media screen and (max-width: 768px) {
