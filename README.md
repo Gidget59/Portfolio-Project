@@ -2,11 +2,6 @@
 
 ##Create a Portfolio
 
-What:
-Why:
-How:
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - I wanted to share a bit about myself to the class & get some experience using Github successfully.
 - It gives me experience while also expressing myself to others.
 - I learned that folders and repositories are a bit of a challenge for me. I was also able to navigate how to make my profile picture accessable on the webpage and not just my computer.
